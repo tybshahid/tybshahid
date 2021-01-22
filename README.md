@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Tayyab Shahid!
 
 <!--
 **tybshahid/tybshahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+
+I am a Software Engineer with 10 Years of experience in software design, analysis, development, testing and implementation. I believe in combining vision with the technical ability to deliver outstanding customer experiences. I am proficient in ASP.Net (MVC & Web Forms), .NET Core, Angular, React, Azure DevOps, Ultimus BPM Suite, Xamarin Forms, SQL, LINQ, RESTfulAPI, Web Services, SOAP, XML, DTD, CSS, HTML, AJAX, JavaScript and TypeScript.
