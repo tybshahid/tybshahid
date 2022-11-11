@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a Software Engineer with 10 Years of experience in software design, analysis, development, testing and implementation. I believe in combining vision with the technical ability to deliver outstanding customer experiences. I am proficient in ASP.Net (MVC & Web Forms), .NET Core, Angular, React, Azure DevOps, Ultimus BPM Suite, Xamarin Forms, SQL, LINQ, RESTfulAPI, Web Services, SOAP, XML, DTD, CSS, HTML, AJAX, JavaScript and TypeScript.
+I am a Software Engineer with 13 Years of experience in software design, analysis, development, testing and implementation. I believe in combining vision with the technical ability to deliver outstanding customer experiences. I am proficient in ASP.Net (MVC & Web Forms), .NET Core, Angular, React, Azure DevOps, Ultimus BPM Suite, Xamarin Forms, SQL, LINQ, RESTfulAPI, Web Services, SOAP, XML, DTD, CSS, HTML, AJAX, JavaScript and TypeScript.
 
 ### Connect on [LinkedIn](https://www.linkedin.com/in/tybshahid/)
